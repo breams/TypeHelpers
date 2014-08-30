@@ -1,9 +1,10 @@
 {
   "name": "TypeHelpers",
-  "version": "1.1.1",
-  "homepage": "https://github.com/breams/TypeHelpers",
+  "version": "1.1.2",
+  "homepage": "http://gitserver.dev/jeremy.tweddle/TypeHelpers",
   "authors": [
     "Zoltan Hawryluk",
+    "Jasper Palfree",
     "Jeremy Tweddle"
   ],
   "description": "Test for the presence of font-smoothing using a canvas element.",
@@ -12,7 +13,8 @@
     "font",
     "smoothing",
     "canvas",
-    "cleartype"
+    "cleartype",
+    "modernizr"
   ],
   "license": "MIT",
   "private": true,
@@ -21,7 +23,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "fonts"
   ],
   "main": [
     "TypeHelpers.js"

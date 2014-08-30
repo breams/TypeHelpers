@@ -1,14 +1,14 @@
 {
   "name": "TypeHelpers",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Helps developers determine if font-smoothing is enabled.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/breams/TypeHelpers.git"
+    "url": "http://gitserver.dev/jeremy.tweddle/TypeHelpers.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/breams/TypeHelpers/issues"
+    "url": "http://gitserver.dev/jeremy.tweddle/TypeHelpers/issues"
   },
-  "homepage": "https://github.com/breams/TypeHelpers"
+  "homepage": "http://gitserver.dev/jeremy.tweddle/TypeHelpers"
 }
